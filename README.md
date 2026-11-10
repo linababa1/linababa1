@@ -14,7 +14,7 @@ I'm currently developing my technical skills through hands-on projects and pract
 - **Tools:** Git, GitHub, VS Code
 - **Currently learning:** PowerBi,ETL, Data Warehousing, Data Pipelines
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [Retail-Store](https://github.com/linababa1/Retail-Store)
 - [Hospital-Management](https://github.com/linababa1/Hospital-Management)
