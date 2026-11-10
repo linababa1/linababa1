@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**linababa1/linababa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lina 👋
 
-Here are some ideas to get you started:
+### BCom Business Informatics Student | Aspiring Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Business Informatics student interested in data engineering, database systems, and building data-driven solutions.
+
+I'm currently developing my technical skills through hands-on projects and practical learning.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** SQL, Python
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Currently learning:** ETL, Data Warehousing, Data Pipelines
+
+## 🚀 Featured Projects
+
+- [Retail-Store](https://github.com/linababa1/Retail-Store)
+- [Hospital-Management](https://github.com/linababa1/Hospital-Management)
+
+## Skill
+
+- SQL
+- Advanced SQL
+- Python for Data Engineering
+- Python for Data Analysis
+- Data Cleaning
+- Data Manipulation
+- Data Modelling
+- Data Visualization
+- Exploratory Data Analysis
+- Database Design
+- ETL and Data Warehousing
+
+## Career Goal
+
+Building the skills to design, develop, and maintain reliable data pipelines and data systems.
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/linababa987/)
