@@ -1,18 +1,18 @@
 
-# Hi, I'm Lina 👋
+# Hi, I'm Lina 
 
-### BCom Business Informatics Student | Aspiring Data Engineer
+### BCom Business Informatics Student | Aspiring Data & Analytics Engineer
 
 I'm a Business Informatics student interested in data engineering, database systems, and building data-driven solutions.
 
 I'm currently developing my technical skills through hands-on projects and practical learning.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - **Languages:** SQL, Python
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, GitHub, VS Code
-- **Currently learning:** ETL, Data Warehousing, Data Pipelines
+- **Currently learning:** PowerBi,ETL, Data Warehousing, Data Pipelines
 
 ## 🚀 Featured Projects
 
